@@ -32,4 +32,6 @@ weight = 5
 
 # Biography
 
-I am a person. Hello! 
+I'm a fifth-year graduate student, working primarily with [Tim Wilson] (http://people.virginia.edu/~tdw/), [Shige Oishi] (http://people.virginia.edu/~so5x/me2.htm), [Jerry Clore] (http://people.virginia.edu/~gc4q/index.php/people/48-gerald-l-clore.html), and [Brian Nosek] (http://projectimplicit.net/nosek/).
+
+I get to work with [many] (https://twitter.com/cksoderberg?lang=en) [other] (https://erincwestgate.weebly.com/) [people] (https://osf.io/f4xnz/) [who] (http://jordanaxt.com/) [are] (https://samanthaheintzelman.com/) [far] (https://psychology.as.virginia.edu/people/profile/dkb5db) [more] (https://psychology.as.virginia.edu/people/profile/hb3hu) [interesting] (https://motivatelab.org/stephanie-wormington/) [than] (http://www.virginia.edu/psychology/socialpsych/profiles.html) I am. 
