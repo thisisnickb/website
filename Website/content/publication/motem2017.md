@@ -3,7 +3,7 @@ title = "You can do it if you really try: The effects of motivation on thinking 
 date = 2017-10-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Alahmadi, S.", "Buttrick, N. R.", "Gilbert, D. T.", "Hardin, A. M.", "Westgate, E. C.", "Wilson, T. D."]
+authors = ["Alahmadi, S.", "**Buttrick, N. R.**", "Gilbert, D. T.", "Hardin, A. M.", "Westgate, E. C.", "Wilson, T. D."]
 
 # Publication type.
 # Legend:

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Nick Buttrick</title>
+    <title>Talks on Nick Buttrick</title>
     <link>/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Nick Buttrick</description>
+    <description>Recent content in Talks on Nick Buttrick</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -13,12 +13,12 @@
     
     
     <item>
-      <title>Example Talk</title>
-      <link>/talk/example-talk/</link>
+      <title>Higher Population Density and Lower Meaning in Life</title>
+      <link>/talk/aps2018/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>/talk/example-talk/</guid>
-      <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>/talk/aps2018/</guid>
+      <description></description>
     </item>
     
   </channel>

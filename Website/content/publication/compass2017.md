@@ -3,7 +3,7 @@ title = "The psychological consequences of income inequality"
 date = 2017-03-08T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Buttrick, N. R.", "Oishi, S."]
+authors = ["**Buttrick, N. R.**", "Oishi, S."]
 
 # Publication type.
 # Legend:
