@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Cross-cultural consistency and relativity in the enjoyment of thinking versus doing</title>
       <link>/publication/jpsp2018/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
       
       <guid>/publication/jpsp2018/</guid>
       <description></description>
@@ -22,7 +22,7 @@
     <item>
       <title>Income inequality and well-being</title>
       <link>/publication/cop2017/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0800</pubDate>
       
       <guid>/publication/cop2017/</guid>
       <description></description>
@@ -31,7 +31,7 @@
     <item>
       <title>You can do it if you really try: The effects of motivation on thinking for pleasure</title>
       <link>/publication/motem2017/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 -0700</pubDate>
       
       <guid>/publication/motem2017/</guid>
       <description></description>
@@ -40,7 +40,7 @@
     <item>
       <title>The psychological consequences of income inequality</title>
       <link>/publication/compass2017/</link>
-      <pubDate>Wed, 08 Mar 2017 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 08 Mar 2017 00:00:00 -0800</pubDate>
       
       <guid>/publication/compass2017/</guid>
       <description></description>
@@ -49,7 +49,7 @@
     <item>
       <title>Higher Population Density and Lower Meaning in Life</title>
       <link>/talk/aps2018/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
       
       <guid>/talk/aps2018/</guid>
       <description></description>
@@ -58,7 +58,7 @@
     <item>
       <title>Deep Learning</title>
       <link>/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>/project/deep-learning/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -76,7 +76,7 @@
     <item>
       <title>External Project</title>
       <link>/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>/project/example-external-project/</guid>
       <description></description>
@@ -85,7 +85,7 @@
     <item>
       <title>Academic: the website designer for Hugo</title>
       <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>/post/getting-started/</guid>
       <description>
@@ -273,7 +273,7 @@ git submodule update --init --recursive
     <item>
       <title>New directions in social psychological interventions to improve academic achievement</title>
       <link>/publication/jep2016/</link>
-      <pubDate>Fri, 01 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>/publication/jep2016/</guid>
       <description></description>
