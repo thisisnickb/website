@@ -13,7 +13,8 @@ weight = 5
     "Socioecological and Cultural Psychology",
     "Self-Knowledge (or the lack thereof)",
     "Implicit Cognition",
-    "Inequality"
+    "Inequality",
+    "Why People Own Guns"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -32,6 +33,6 @@ weight = 5
 
 # Biography
 
-I'm a fifth-year graduate student, working primarily with [Tim Wilson] (http://people.virginia.edu/~tdw/), [Shige Oishi] (http://people.virginia.edu/~so5x/me2.htm), [Jerry Clore] (http://people.virginia.edu/~gc4q/index.php/people/48-gerald-l-clore.html), and [Brian Nosek] (http://projectimplicit.net/nosek/).
+I'm a fifth-year graduate student, working primarily with [Tim Wilson] (http://people.virginia.edu/~tdw/), [Shige Oishi] (https://psychology.columbia.edu/content/shigehiro-oishi), [Jerry Clore] (http://people.virginia.edu/~gc4q/index.php/people/48-gerald-l-clore.html), and [Brian Nosek] (http://projectimplicit.net/nosek/).
 
-I get to work with [many] (https://twitter.com/cksoderberg?lang=en) [other] (https://erincwestgate.weebly.com/) [people] (https://osf.io/f4xnz/) [who] (http://jordanaxt.com/) [are] (https://samanthaheintzelman.com/) [far] (https://psychology.as.virginia.edu/people/profile/dkb5db) [more] (https://psychology.as.virginia.edu/people/profile/hb3hu) [interesting] (https://motivatelab.org/stephanie-wormington/) [than] (http://www.virginia.edu/psychology/socialpsych/profiles.html) [I](http://www.meltemyucel.com/) [am] (https://www.andyhales.com/). 
+I get to work with [lots] (https://twitter.com/cksoderberg?lang=en) [of] (https://erincwestgate.weebly.com/) [amazing] (https://charlesrebersole.weebly.com/) [people] (http://jordanaxt.com/) [who] (https://samanthaheintzelman.com/) [are] (https://psychology.as.virginia.edu/people/profile/dkb5db) [all] (https://psychology.as.virginia.edu/people/profile/hb3hu) [doing] (https://motivatelab.org/stephanie-wormington/) [really] (http://www.virginia.edu/psychology/socialpsych/profiles.html) [fascinating] (http://www.meltemyucel.com/) [things] (https://www.andyhales.com/). 
