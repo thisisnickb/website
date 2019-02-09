@@ -17,6 +17,7 @@ weight = 60
 
 Here are my conference posters, in case you'd like to take a look:
 
+* [A False Growth Mindset May Increase Victim-Blaming] (files/SPSP2019Poster.pdf), poster presented at the 2019 Intervention Preconference of the Society of Personality and Social Psychology, Portland, OR
 * [Higher Population Density, Lower Meaning in Life] (files/SPSP2018.pdf), poster presented at the 2018 meeting of the Society of Personality and Social Psychology, San Francisco, CA
 * [Cultural Differences in the Enjoyment of Thought] (files/SPSP2017.pdf), poster presented at the 2017 meeting of the Society of Personality and Social Psychology, San Antonio, TX
 * [A Historical Shift in the Moral Foundations of Public Persuasion] (files/SPSP2016.pdf), poster presented at the 2016 meeting of the Society of Personality and Social Psychology, San Diego, CA

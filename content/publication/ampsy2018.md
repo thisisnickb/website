@@ -38,7 +38,7 @@ projects = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "files/AP2018Preprint.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
