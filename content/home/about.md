@@ -33,6 +33,6 @@ weight = 5
 
 # Biography
 
-I'm a fifth-year graduate student, working primarily with [Tim Wilson] (http://people.virginia.edu/~tdw/), [Shige Oishi] (https://psychology.columbia.edu/content/shigehiro-oishi), [Jerry Clore] (http://people.virginia.edu/~gc4q/index.php/people/48-gerald-l-clore.html), and [Brian Nosek] (http://projectimplicit.net/nosek/).
+I'm a sixth-year graduate student, working primarily with [Tim Wilson] (http://people.virginia.edu/~tdw/), [Shige Oishi] (https://psychology.columbia.edu/content/shigehiro-oishi), [Jerry Clore] (http://people.virginia.edu/~gc4q/index.php/people/48-gerald-l-clore.html), and [Brian Nosek] (http://projectimplicit.net/nosek/).
 
 I get to work with [lots] (https://twitter.com/cksoderberg?lang=en) [of] (https://erincwestgate.weebly.com/) [amazing] (https://charlesrebersole.weebly.com/) [people] (http://jordanaxt.com/) [who] (https://samanthaheintzelman.com/) [are] (https://psychology.as.virginia.edu/people/profile/dkb5db) [all] (https://psychology.as.virginia.edu/people/profile/hb3hu) [doing] (https://motivatelab.org/stephanie-wormington/) [really] (http://www.virginia.edu/psychology/socialpsych/profiles.html) [fascinating] (http://www.meltemyucel.com/) [things] (https://www.andyhales.com/). 
