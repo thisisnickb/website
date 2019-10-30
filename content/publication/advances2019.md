@@ -49,7 +49,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{name = "Article", url = "https://www.nature.com/articles/s41562-018-0399-z"}]
+url_custom = [{name = "Article", url = "https://doi.org/10.1016/bs.aesp.2019.05.001"}]
 
 # Does the content use math formatting?
 math = true
