@@ -64,8 +64,8 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "nrb8pv@virginia.edu"
-  address = "Gilmer Hall, 485 McCormick Rd, Charlottesville, VA 22903"
+  email = "buttrick@princeton.edu"
+  address = "Peretsman Scully Hall, Princeton, NJ, 08540"
   office_hours = ""
   phone = ""
   skype = ""
@@ -99,8 +99,8 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   map = 2
   map_api_key = ""
-  latitude = "40.3464282"
-  longitude = "-74.6690486"
+  latitude = "40.3434371"
+  longitude = "-74.6544729"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
