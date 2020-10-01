@@ -99,8 +99,8 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   map = 2
   map_api_key = ""
-  latitude = "38.0342239"
-  longitude = "-78.5150124"
+  latitude = "40.3464282"
+  longitude = "-74.6690486"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
@@ -227,7 +227,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:nrb8pv@virginia.edu"
+    link = "mailto:buttrick@princeton.edu"
 
   [[params.social]]
     icon = "osf"
