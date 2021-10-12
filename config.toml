@@ -266,16 +266,21 @@ enableGitInfo = false
   name = "Talks"
   url = "#talks"
   weight = 3
-  
+
+[[menu.main]]
+  name = "Preprints"
+  url = "#preprints"
+  weight = 4
+
 [[menu.main]]
   name = "Posters"
   url = "#posters"
-  weight = 4  
+  weight = 5  
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 5
+  weight = 6
 
 
 # Taxonomies.
