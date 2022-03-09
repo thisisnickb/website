@@ -10,7 +10,7 @@ title = "Nick Buttrick"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2021"
+copyright = "&copy; 2022"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -55,11 +55,12 @@ enableGitInfo = false
 
   # Your details.
   name = "Nick Buttrick"
-  role = "Postdoctoral Research Associate"
+  role = "(Incoming) Assistant Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "School of Public and International Affairs, Princeton University", url = "https://spia.princeton.edu/" } ]
+  organizations = [ { name = "Current: School of Public and International Affairs, Princeton University", url = "https://spia.princeton.edu/" },
+  {name = "Future: Department of Psychology, University of Wisconsin-Madison", url = "https://psych.wisc.edu/"}]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
