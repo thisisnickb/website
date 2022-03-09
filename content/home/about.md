@@ -21,6 +21,11 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+  course = "Postdoctoral Research Associate"
+  institution = "School of Public and International Affairs, Princeton University"
+  year = 2021-2022
+
+[[education.courses]]
   course = "PhD in Social Psychology"
   institution = "University of Virginia"
   year = 2020
