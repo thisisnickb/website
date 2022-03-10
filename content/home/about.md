@@ -23,7 +23,7 @@ weight = 5
 [[education.courses]]
   course = "Postdoctoral Research Associate"
   institution = "School of Public and International Affairs, Princeton University"
-  year = 2021-2022
+  year = 2022
 
 [[education.courses]]
   course = "PhD in Social Psychology"
