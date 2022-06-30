@@ -245,7 +245,7 @@ enableGitInfo = false
     link = "files/CV.pdf"
 
   [[params.social]]
-    icon = "fa-calendar-circle-plus"
+    icon = "calendar-plus"
     icon_pack = "fa"
     link = "https://www.calendly.com/nick-buttrick"
 
