@@ -66,7 +66,7 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "nbuttrick@wisc.edu"
   address = "Brogden Hall, Madison, WI, 53706"
-  office_hours = "https://www.calendly.com/nick-buttrick"
+  office_hours = ""
   phone = ""
   skype = ""
   telegram = ""
@@ -244,6 +244,10 @@ enableGitInfo = false
     icon_pack = "ai"
     link = "files/CV.pdf"
 
+  [[params.social]]
+    icon = "calendar-circle-plus"
+    icon_pack = "fa"
+    link = "https://www.calendly.com/nick-buttrick"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
