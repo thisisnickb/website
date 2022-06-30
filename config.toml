@@ -55,18 +55,18 @@ enableGitInfo = false
 
   # Your details.
   name = "Nick Buttrick"
-  role = "(Incoming) Assistant Professor"
+  role = "Assistant Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Current: Postdoctoral Research Associate, School of Public and International Affairs, Princeton University", url = "https://spia.princeton.edu/" },
-  {name = "Future: Assistant Professor, Department of Psychology, University of Wisconsin-Madison", url = "https://psych.wisc.edu/"}]
+  organizations = [
+  {name = "Assistant Professor, Department of Psychology, University of Wisconsin-Madison", url = "https://psych.wisc.edu/"}]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "buttrick@princeton.edu"
-  address = "Peretsman Scully Hall, Princeton, NJ, 08540"
-  office_hours = ""
+  email = "nbuttrick@wisc.edu"
+  address = "Brogden Hall, Madison, WI, 53706"
+  office_hours = {name="Calendar Link", url="https://www.calendly.com/nick-buttrick"}
   phone = ""
   skype = ""
   telegram = ""
@@ -99,8 +99,8 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   map = 2
   map_api_key = ""
-  latitude = "40.3434371"
-  longitude = "-74.6544729"
+  latitude = "43.0725623"
+  longitude = "-89.4061045"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
@@ -227,7 +227,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:buttrick@princeton.edu"
+    link = "mailto:nbuttrick@wisc.edu"
 
   [[params.social]]
     icon = "osf"
