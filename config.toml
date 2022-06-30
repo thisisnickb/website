@@ -228,6 +228,11 @@ enableGitInfo = false
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:nbuttrick@wisc.edu"
+    
+   [[params.social]]
+    icon = "calendar"
+    icon_pack = "fa"
+    link = "https://www.calendly.com/nick-buttrick"
 
   [[params.social]]
     icon = "osf"
@@ -244,10 +249,6 @@ enableGitInfo = false
     icon_pack = "ai"
     link = "files/CV.pdf"
 
-  [[params.social]]
-    icon = "calendar"
-    icon_pack = "fa"
-    link = "https://www.calendly.com/nick-buttrick"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
