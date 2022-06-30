@@ -66,7 +66,7 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "nbuttrick@wisc.edu"
   address = "Brogden Hall, Madison, WI, 53706"
-  office_hours = {name="Calendar Link", url="https://www.calendly.com/nick-buttrick"}
+  office_hours = "https://www.calendly.com/nick-buttrick"
   phone = ""
   skype = ""
   telegram = ""
