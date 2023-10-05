@@ -10,7 +10,7 @@ title = "Nick Buttrick"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2022"
+copyright = "&copy; 2023"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -269,24 +269,14 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
-  name = "Talks"
-  url = "#talks"
+  name = "Media"
+  url = "#media"
   weight = 3
-
-[[menu.main]]
-  name = "Preprints"
-  url = "#preprints"
-  weight = 4
-
-[[menu.main]]
-  name = "Posters"
-  url = "#posters"
-  weight = 5  
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 4
 
 
 # Taxonomies.
