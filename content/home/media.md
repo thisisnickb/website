@@ -59,6 +59,8 @@ Sometimes our work is covered by the media. Here's what that coverage looks like
 * [Thinking enjoyable thoughts is hard] (https://spsp.org/news-center/character-context-blog/thinking-enjoyable-thoughts-hard), *SPSP Character & Context Blog, 12/4/19*
 
 
+
+
 And, sometimes I get asked to do podcasts or webinars. Here's what that looks and sounds like.
 
 * [Gun violence and anxiety in the US] (https://member.psychologicalscience.org/events/event-details/?id=4428d5b2-d83a-ee11-a81c-000d3aded064&reload=timezone), *The Association for Psychological Science's Science for Society Series, 9/20/23*
