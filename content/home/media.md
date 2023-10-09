@@ -60,7 +60,9 @@ Sometimes our work is covered by the media. Here's what that coverage looks like
 
 ***
 
-And, sometimes I get asked to do podcasts or webinars. Here's what that looks and sounds like.
+And, sometimes I get to go on podcasts or webinars. Here's what that looks and sounds like.
+
+* [Fear sells guns] (https://www.thetrace.org/2023/10/american-history-racism-black-gun-owners/), *WBUR/The Trace's The Gun Machine, 10/4/23*
 
 * [Gun violence and anxiety in the US] (https://member.psychologicalscience.org/events/event-details/?id=4428d5b2-d83a-ee11-a81c-000d3aded064&reload=timezone), *The Association for Psychological Science's Science for Society Series, 9/20/23*
 
