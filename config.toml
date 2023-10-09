@@ -23,7 +23,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "G-W7B31KYL33"
+googleAnalytics = "UA-119569565-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
