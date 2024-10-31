@@ -19,6 +19,10 @@ Sometimes our work is covered by the media. Here's what that coverage looks like
 
 **On guns in America**
 
+* [Americans own guns to protect themselves from psychological as well as physical threats] (https://theconversation.com/americans-own-guns-to-protect-themselves-from-psychological-as-well-as-physical-threats-239363), *The Conversation*, 10/31/24
+
+* [New findings help explain gun ownership psychology in America] (https://badgerherald.com/news/2023/11/07/new-findings-help-explain-gun-ownership-psychology-in-america/), *The Badger Herald*, 11/7/23
+
 * [Why some Americans buy guns] (https://www.nytimes.com/2023/06/23/health/gun-violence-psychology.html), *The New York Times*, 7/26/23
 
 * [How the gun became integral to the self-identity of millions of Americans] (https://www.scientificamerican.com/article/how-the-gun-became-integral-to-the-self-identity-of-millions-of-americans/), *Scientific American*, 3/29/23
