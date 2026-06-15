@@ -14,7 +14,6 @@ weight = 5
     "Why People Own Guns",
     "The Psychological Consequences of Reading Fiction",
     "Self-Knowledge (or the lack thereof)",
-    "Implicit Cognition",
     "Inequality"
     
   ]
