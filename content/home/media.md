@@ -19,7 +19,11 @@ Sometimes our work is covered by the media. Here's what that coverage looks like
 
 **On guns in America**
 
+* [The psychology of gun ownership and gun violence] (https://player.captivate.fm/episode/62f85ace-5b1b-4e9a-a0e7-7892ba20af4d), *Badger Talks*, 3/17/26
+
 * [UW-Madison researchers find alcohol sales increase following mass shootings] (https://www.wpr.org/news/uw-madison-research-alcohol-sales-increase-following-mass-shootings), *Wisconsin Public Radio*, 1/27/25
+
+* [Mass shootings correlated with alcohol sale spikes, UW research finds] (https://badgerherald.com/news/science-news/2025/01/27/mass-shootings-correlated-with-alcohol-sale-spikes-uw-research-finds/), *The Badger Herald*, 1/27/25
 
 * [Americans own guns to protect themselves from psychological as well as physical threats] (https://theconversation.com/americans-own-guns-to-protect-themselves-from-psychological-as-well-as-physical-threats-239363), *The Conversation*, 10/31/24
 

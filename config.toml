@@ -10,7 +10,7 @@ title = "Nick Buttrick"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2024"
+copyright = "&copy; 2026"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -291,3 +291,8 @@ enableGitInfo = false
 # Configure the English version of the website.
 [Languages.en]
   languageCode = "en-us"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
